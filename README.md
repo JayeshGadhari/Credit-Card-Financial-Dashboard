@@ -57,10 +57,10 @@ Credit-Card-Dashboard/
 ## 📸 Dashboard Preview  
 
 ### 📍 Customer Report  
-![Customer Dashboard](images\Customer.jpg)  
+![Customer Dashboard](images/Customer.jpg)  
 
 ### 📍 Transaction Report  
-![Transaction Dashboard](images\Transaction.jpg)  
+![Transaction Dashboard](images/Transaction.jpg)  
 
 ---
 
