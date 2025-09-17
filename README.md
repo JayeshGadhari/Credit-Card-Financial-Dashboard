@@ -74,6 +74,3 @@ Credit-Card-Dashboard/
 
 ---
 
-
-
-## 📂 Project Structure  
